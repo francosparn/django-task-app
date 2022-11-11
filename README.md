@@ -13,8 +13,6 @@ This is a task web application developed with the **Django** framework.
 
 **HTML**, **CSS** and **Bootstrap v5.2** were used for the structure and design of the application.
 
-This site is 100% adaptable to all types of devices (computers, mobile phones and tablets).
-
 ## Project run
 
 To run this project you will need to have **Python** installed on your computer. The first thing we will do is download the project and open it in our preferred editor. Although not required, it is recommended that you create a **virtual environment** to store your project dependencies separately.
