@@ -1,6 +1,6 @@
 ## Descripción del proyecto
 
-Como su nombre lo indica, "**Task App**" es una aplicación web de tareas realizada con el framework **Django**. La misma permite **crear**, **mostrar**, **editar** y **eliminar** tareas.
+Como su nombre lo indica, "**Task App**" es una aplicación web de tareas realizada con el framework **Django**. La misma permite **crear**, **mostrar**, **editar** y **eliminar** tareas, entre otras cosas.
 
 **Características del proyecto**:
 
