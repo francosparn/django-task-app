@@ -13,6 +13,26 @@ This is a task web application developed with the **Django** framework.
 
 **HTML** and **CSS** were used for the structure and design of the application.
 
+## Preview
+
+**Register**
+
+![](https://i.imgur.com/8FNnzO0.png)
+
+**Login**
+
+![](https://i.imgur.com/Si1Ai1F.png)
+
+**Index**
+
+![](https://i.imgur.com/MrygnuZ.png)
+
+**Form to add/edit tasks**
+![](https://i.imgur.com/VSTGZiv.png)
+
+**Delete tasks form**
+![](https://i.imgur.com/lJCjc0B.png)
+
 ## Project run
 
 To run this project you will need to have **Python** installed on your computer. The first thing we will do is download the project and open it in our preferred editor. Although not required, it is recommended that you create a **virtual environment** to store your project dependencies separately.
