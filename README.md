@@ -11,7 +11,7 @@ This is a task web application developed with the **Django** framework.
 - Edit tasks.
 - Delete tasks.
 
-**HTML**, **CSS** and **Bootstrap v5.2** were used for the structure and design of the application.
+**HTML** and **CSS** were used for the structure and design of the application.
 
 ## Project run
 
