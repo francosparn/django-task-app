@@ -13,6 +13,8 @@ This is a task web application developed with the **Django** framework.
 
 **HTML** and **CSS** were used for the structure and design of the application.
 
+Icons used are from **[Font Awesome](https://fontawesome.com/)**.
+
 ## Preview
 
 **Register**
