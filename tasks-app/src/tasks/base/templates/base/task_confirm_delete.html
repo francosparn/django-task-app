@@ -1,0 +1,15 @@
+{% extends 'base/index.html' %}
+
+{% block content %}
+    <div class="alert-delete">
+        <h1>Delete task</h1>
+
+        <a href="{% url 'tasks' %}" class="btn-back"><i class="fa-solid fa-arrow-left"></i> Go Back</a>
+
+        <form method="POST" action="">
+            {% csrf_token %}
+            <p>Do you want to delete the task "<strong>{{ task.title }}</strong>"?</p>
+            <button type="submit" class="btn-delete"><i class="fa-sharp fa-solid fa-xmark"></i> Delete</button>
+        </form>
+    </div>
+{% endblock content %}
